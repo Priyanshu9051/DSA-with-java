@@ -13,8 +13,8 @@ class Solution {
             
 
         }
-        List<String> ans=new ArrayList<>(set2);
-        return ans;
+        
+        return new ArrayList<String>(set2);
 
 
         
